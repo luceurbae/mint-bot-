@@ -1,7 +1,6 @@
 #
 
-# Mint Bot (ethers.js)
-
+# NFT Mint Bot
 Supports:
 
 - simple mode (minimal code)
