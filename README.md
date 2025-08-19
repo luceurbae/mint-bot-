@@ -16,7 +16,7 @@ More detailed tutorial in the .env file
 
 - Clone repo
 ```bash
-git clone
+git clone https://github.com/luceurbae/mint-bot-.git
 ```
 - Run
 
