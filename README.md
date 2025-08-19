@@ -14,6 +14,10 @@ More detailed tutorial in the .env file
 
 # edit your .env file to suit your needs.
 
+- Clone repo
+```bash
+git clone
+```
 - Run
 
 ```bash
