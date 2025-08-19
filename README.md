@@ -14,13 +14,13 @@ More detailed tutorial in the .env file
 
 # edit your .env file to suit your needs.
 
-# Run
+- Run
 
 ```bash
 npm install
 ```
 
-# Start Bot
+- Start Bot
 
 ```bash
 npm start
