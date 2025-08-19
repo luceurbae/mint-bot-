@@ -2,7 +2,7 @@
 
 # Mint Bot (ethers.js)
 
-A simple/advanced NFT mint bot for Node.js using ethers.js. Supports:
+Supports:
 
 - simple mode (minimal code)
 - single/multi wallet
